@@ -1,3 +1,4 @@
+ipywidgets
 jupyterlab
 numpy
 pandas
