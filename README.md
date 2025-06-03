@@ -31,19 +31,3 @@ These notebooks contain **example-driven exercises** where solutions are hidden 
 |----------|--------|
 | Vector Projections in Euclidean Space | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jperezcuarenta/teaching/HEAD?urlpath=%2Fdoc%2Ftree%2Fexercises%2Fvector_projections_euclideanspace.ipynb) |
 | Vector Projections and Continuous Functions | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jperezcuarenta/teaching/HEAD?urlpath=%2Fdoc%2Ftree%2Fexercises%2Fvector_projections_continuousfunctions.ipynb) |
-
----
-
-## 📁 Repository Structure
-
-├── exercises/
-│ ├── vector_projections_continuousfunctions.ipynb
-│ └── vector_projections_euclideanspace.ipynb
-├── interactive/
-│ ├── absolute_value.ipynb
-| ├── graphing_trig_functions.ipynb
-| ├── vector_fields.ipynb
-│ └── vector_projections.ipynb
-├── README.md
-├── requirements.txt
-└── pyproject.toml
