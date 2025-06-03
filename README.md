@@ -29,5 +29,5 @@ These notebooks contain **example-driven exercises** where solutions are hidden 
 
 | Notebook | Launch |
 |----------|--------|
-| Vector Projections in Euclidean Space | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jperezcuarenta/teaching/HEAD?urlpath=%2Fdoc%2Ftree%2Fexercises%2Fvector_projections_euclideanspace.ipynb) |
-| Vector Projections and Continuous Functions | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jperezcuarenta/teaching/HEAD?urlpath=%2Fdoc%2Ftree%2Fexercises%2Fvector_projections_continuousfunctions.ipynb) |
+| Vector Projections - Euclidean Space | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jperezcuarenta/teaching/HEAD?urlpath=%2Fdoc%2Ftree%2Fexercises%2Fvector_projections_euclideanspace.ipynb) |
+| Vector Projections - Continuous Functions | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jperezcuarenta/teaching/HEAD?urlpath=%2Fdoc%2Ftree%2Fexercises%2Fvector_projections_continuousfunctions.ipynb) |

@@ -1,5 +1,7 @@
+ipykernel
 ipywidgets
 jupyterlab
+matplotlib
 numpy
 pandas
 plotly
